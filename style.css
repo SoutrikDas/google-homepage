@@ -1,0 +1,45 @@
+
+h1{
+    /* background-color: #6747c7; */
+}
+#g1{
+    color:blue;
+    position: absolute;
+    top:200px;
+    left:200px;
+}
+#o1{
+    color:red;
+    position: absolute;
+    top:200px;
+    left:230px;
+}
+#o2{
+    color:yellow;
+    position: absolute;
+    top:200px;
+    left:260px;
+}
+#g2{
+    color:blue;
+    position: absolute;
+    top:200px;
+    left:290px;
+}
+#l1{
+    color:green;
+    position: absolute;
+    top:200px;
+    left:320px;
+}
+#e1{
+    color: red;
+    position: absolute;
+    top:200px;
+    left:350px;
+}
+#search-tool{
+    position: absolute;
+    top:270px;
+    left:200px
+}
