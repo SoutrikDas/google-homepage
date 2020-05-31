@@ -2,44 +2,35 @@
 h1{
     /* background-color: #6747c7; */
 }
-#g1{
-    color:blue;
-    position: absolute;
-    top:200px;
-    left:200px;
+ul{
+
+    list-style: none;
+
+    margin:0px;
+    padding:0px;
+    background-color:#90AFC5 ;
+
 }
-#o1{
-    color:red;
-    position: absolute;
-    top:200px;
-    left:230px;
+li{
+    display:inline;
+    background-color: #90AFC5;
 }
-#o2{
-    color:yellow;
-    position: absolute;
-    top:200px;
-    left:260px;
+li:hover{
+    background-color: #336B87;
+    margin:0px;
+    padding:0px;
 }
-#g2{
-    color:blue;
-    position: absolute;
-    top:200px;
-    left:290px;
+#search{
+    
+    border-radius: 50%;
 }
-#l1{
-    color:green;
-    position: absolute;
-    top:200px;
-    left:320px;
-}
-#e1{
-    color: red;
-    position: absolute;
-    top:200px;
-    left:350px;
-}
+
 #search-tool{
     position: absolute;
-    top:270px;
-    left:200px
+    width:100%;
+
+}
+#google{
+    margin:auto;
+    
 }
